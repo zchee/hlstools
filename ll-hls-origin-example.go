@@ -1,3 +1,4 @@
+// Command hlstools provides the Low-Latency HLS Golang script (ll-hls-origin-example.go) implements the HLS Origin API for a Low-Latency HLS media playlist.
 package main
 
 /*
